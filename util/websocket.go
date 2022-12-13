@@ -3,7 +3,7 @@ package util
 import (
 	"errors"
 	"fmt"
-	"github.com/gorilla/websocket"
+	"github.com/openwrtfirmwarecustom/websocket"
 	"net/http"
 	"sync"
 )

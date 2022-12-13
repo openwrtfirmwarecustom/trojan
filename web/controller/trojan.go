@@ -6,7 +6,7 @@ import (
 	"encoding/csv"
 	"fmt"
 	"github.com/gin-gonic/gin"
-	ws "github.com/gorilla/websocket"
+	ws "github.com/openwrtfirmwarecustom/websocket"
 	"io"
 	"log"
 	"strconv"
