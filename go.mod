@@ -1,4 +1,4 @@
-module trojan
+module github.com/openwrtfirmwarecustom/websocket
 
 go 1.19
 
